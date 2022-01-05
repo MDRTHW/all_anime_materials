@@ -4,4 +4,8 @@
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-size: cover;
+    background-position: bottom center;
+}
+.owl-dot span{
+    width: 40px;
 }
